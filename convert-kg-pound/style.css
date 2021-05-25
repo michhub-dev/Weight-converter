@@ -12,11 +12,11 @@ form {
   width: 50%;
   margin-left: 5rem;
   background: white;
-  padding: 2rem;
+  padding: 2rem 2.3rem;
   border-radius: 10px;
 }
 input {
-  margin: 5px 10px;
+  margin: 5px;
   outline: none;
   padding: 10px;
 }
